@@ -1,6 +1,6 @@
 # designer-GB
 
-A design-partner agent skill plus Heraldo's style preferences.
+A design-partner agent skill plus style preferences.
 
 Copy the `designer/` folder into `~/.claude/skills/` or the harness's skills dir, or reference `designer/SKILL.md` from `AGENTS.md`.
 
