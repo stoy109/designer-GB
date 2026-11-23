@@ -1,4 +1,4 @@
-# Style profile: Heraldo
+# Style profile: sty
 
 Living file. Update after every reaction or hand edit. "(inferred)" = not yet confirmed.
 
